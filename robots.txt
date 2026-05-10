@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/greater-london-2026-q2-24-islington-github-pages/sitemap.xml
